@@ -1,0 +1,7 @@
+# Chúng tôi không khuyến cáo bạn sử dụng plugin này để gây hại mọi người!
+name: PocketDie
+main: DragoVN\Main
+api: [3.0.0]
+version: 0.1
+author: DragoVN
+description: Đây là plugin nguy hiểm có nguy cơ gây hại nặng nề đến máy chủ PocketMine chạy theo PHP.
